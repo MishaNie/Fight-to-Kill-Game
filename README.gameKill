@@ -1,0 +1,13 @@
+#Demo 
+
+In this small game i'm going to upgrade a simple game with 2 weapons and a few atrributs into something more complex.
+First I created player1 with attributs( name, weapon, health) and set up the setter and getters and
+a constructor with all of the attributs passed in it and a if() verification to catch when the players health is set up 0< or >100 .
+Then I created 2 methods damageByGun1 and damaageByGun2 that decreases the health by 30 or 80 depanding on the gun used.
+In these methods I have a System.out.prinln in case the player dies that says "Player is dead".
+
+For Player2 
+I gave him 2 attributs of health and boolean value of armour.He posses similar methods to player1 but different dammage.
+ 
+ 
+ I am creating players and making them fight in my main file.
